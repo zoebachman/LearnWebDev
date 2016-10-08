@@ -1,0 +1,29 @@
+h1 {
+	font-size: 12px;
+}
+
+a {
+	color: red;
+}
+
+li {
+	margin: 30px
+}
+
+.sidebar-link{
+	background: black;
+
+}
+
+.col-lg-12{
+	background: red;
+}
+
+.col-lg-4{
+	background: blue;
+	height:200px;
+}
+
+.col-lg-8{
+	background: green;
+}
